@@ -1,18 +1,29 @@
-h1{
-    color: red;
-    font-family: comic sans ms;
-    text-align: center;
-    border: solid black 2px;
-}
-p{
-    font-size: 23px;
+body{
+    background-attachment: fixed;
+    background-image: url(https://archzine.fr/wp-content/uploads/2020/04/espace-image-pour-ordinateur-fond-d-%C3%A9cran-gratuit-noir-photographie-science-astronomie-plan%C3%A8tes-cosmos.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 img{
-    height:25%;
-    width:25%;
+    margin:auto;
+    margin-top: 50px;
+    display:flex;
+    height:40%;
+    width:40%;
 }
-img.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    background: #413654;
+    opacity: 50%;
+    text-align: justify;
+    margin-top: 50px;
+}
+.flex > p{
+    font-size: 23px;
+    color: white;
+    margin: 50px;
 }
