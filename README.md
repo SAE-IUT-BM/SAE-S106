@@ -2,4 +2,4 @@
 Site Web pour la SAE-106
 
 [Maxime THEVENEAU](mailto:maxime.theveneau@gmail.com?subject=[GitHub]%20Source%20Han%20Sans), Hugo LEFORT, Théo DAL GOBBO, Mael TURCHETTO
-![alt tag](.\autre\zoning.jpg)
+![Zoning](.\autre\zoning.jpg)
