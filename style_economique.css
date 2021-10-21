@@ -1,6 +1,8 @@
 body
 {
 	background-color: #08072A;
+	margin-right: 7%;
+	margin-left: 7%;
 }
 
 h1,h2
@@ -58,7 +60,7 @@ img
 {
 	color: white;
 	position: absolute;
-	bottom: 380px;
+	bottom: 525px;
 	font-size: 25px;
 	left: 50px;
 }
@@ -74,7 +76,7 @@ button
 	font-size: 17px;
 	font-family: sans-serif;
 	left: 70%;
-	bottom:  70%;
+	bottom:  75%;
 	
 }
 
@@ -98,7 +100,7 @@ td
 }
 table 
 {
-	top: 540px;
+	top: 450px;
 	right: 500px;
 	position: absolute;
 }
