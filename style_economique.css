@@ -68,5 +68,8 @@ button
 	position: relative;
 	top: 90;
 	right: 80;
+	height: 150px;
+	width: 250px;
+	padding: 10px;
 	
 }
