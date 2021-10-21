@@ -65,13 +65,13 @@ button
 	background-color: black;
 	color: white;
 	border-radius: 5px;
-	position: relative;
-	top: 60%;
-	right: 50%;
+	position: absolute;
 	height: 100px;
-	width: 250px;
+	width: 280px;
 	padding: 10px;
-	font-size: 23px;
+	font-size: 17px;
 	font-family: sans-serif;
+	left: 70%;
+	bottom:  70%;
 	
 }
