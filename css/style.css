@@ -1,16 +1,24 @@
 .h3{font-family: arial;}
 body{
-    background-attachment: fixed;
-    background-image: url(https://archzine.fr/wp-content/uploads/2020/04/espace-image-pour-ordinateur-fond-d-%C3%A9cran-gratuit-noir-photographie-science-astronomie-plan%C3%A8tes-cosmos.jpg);
+    background-attachment:scroll;
+    background-image: url(https://wallpapershome.com/images/pages/pic_h/17861.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    background-position-y: -400px;
+}
+.fond {
+   background: rgba(8, 7, 42, 0.9);
+   padding-bottom: 135px;
 }
 img{
     margin:auto;
-    margin-top: 50px;
+    padding-top: 50px;
     display:flex;
     height:40%;
     width:40%;
+}
+.logo{
+   padding-top: 290px;
 }
 .flex{
     display: flex;
@@ -19,13 +27,7 @@ img{
     margin-top: 50px;
  }
  .flex > div{
-    background: #08072A;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    height: 300px;
-    width: 300px;
-    opacity: 80%;
+   margin-bottom: 100px;
  }
  div > a > img{
     margin-top: 10px;
