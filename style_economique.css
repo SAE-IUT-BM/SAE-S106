@@ -39,9 +39,11 @@ h1,h2
 	color: white;
 	font-size: 25px;
 	text-decoration: none;
-	bottom:  2%;
-	left: 80%;
+	top:  115%;
+	left: 82%;
 	position: absolute;
+	border-radius: 5px;
+	padding: 7px;
 }
 
 img
@@ -56,9 +58,9 @@ img
 {
 	color: white;
 	position: absolute;
-	bottom: 480px;
-	left: 10%;
+	bottom: 380px;
 	font-size: 25px;
+	left: 50px;
 }
 button
 {
@@ -74,4 +76,29 @@ button
 	left: 70%;
 	bottom:  70%;
 	
+}
+
+table,td
+{
+	color: white;
+	border:  solid black 2px;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 10px;
+}
+th
+{
+	background-color: black;
+}
+td 
+{
+	background-color: white;
+	color: black;
+	border:  solid black 2px;
+}
+table 
+{
+	top: 540px;
+	right: 500px;
+	position: absolute;
 }
