@@ -40,8 +40,10 @@ p {
 .paddiv {
     padding-left: 300px;
     padding-bottom: 100px;
+    padding-top: 100px;
 }
 textarea {
     resize: none;
-    padding-bottom: 200px;
+    height: 150px;
+    margin-bottom: 20px;
   }
