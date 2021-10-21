@@ -1,1 +1,65 @@
-.div{background-color: #08072A}
+body{background-color: #08072A;}
+
+.bloc
+{
+	color: white;
+	background: ;
+	margin-top: 3%;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-bottom: 3%;
+	border-radius: 15px;
+	padding: 10px;
+	position: relative;
+	border: solid white 2px;
+}
+
+#paragraphe
+{
+	font-family: arial;
+	color: #E5E5E5;
+	top:  10%;
+	left: 43%;
+	position: absolute;
+}
+
+h4
+{
+	font-family: arial;
+	color: #E5E5E5;
+}
+
+.background_green
+{
+	background-color: #17B26F;
+}
+
+li{color:  white;}
+h5
+{
+	font-family: arial;
+	color: #E5E5E5;
+}
+
+h1,h2
+{
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	text-align: center;
+}
+
+a
+{
+	color: white;
+	font-size: 25px;
+	text-decoration: none;
+	bottom:  2%;
+	left: 80%;
+	position: absolute;
+	font-family: sans-serif;
+}
+
+.marge
+{
+	margin-left: 2.5%;
+}
