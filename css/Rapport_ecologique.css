@@ -5,6 +5,15 @@ body
     	padding:0;
 }
 
+h1
+{
+	font-size: 120px;
+    	background: -webkit-linear-gradient(0deg,#03001e 0%, #7303c0 3%, #ec38bc 30%, #fdeff9 40%);
+    	-webkit-background-clip: text;
+    	-webkit-text-fill-color: transparent;
+    	font-family: 'Poppins', sans-serif;
+}
+
 .bloc
 {
 	color: white;
