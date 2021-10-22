@@ -5,6 +5,10 @@ html {
     background-size: 100%;
 }
 
+body{
+    background: rgba(8, 7, 42, 0.9)
+}
+
 h1
 {
 	font-size: 120px;
