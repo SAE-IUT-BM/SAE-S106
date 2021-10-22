@@ -1,3 +1,10 @@
+html {
+    background-attachment: fixed;
+    background-image: url(https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 body{background-color: rgba(8,7,42,0.9);}
 
 h1
