@@ -1,4 +1,9 @@
-body{background-color: #08072A;}
+body
+{
+	background-color: #08072A;
+	margin:0;
+    padding:0;
+}
 
 .bloc
 {
@@ -33,6 +38,18 @@ h4
 {
 	background-color: #17B26F;
 }
+
+/*.bloc3
+{
+	color: black;
+	margin-left: 50%;
+	background-color: white;
+	border-radius: 15px;
+	padding: 10px;
+	bottom: 10px;
+	position: relative;
+	border: solid black 3px;
+}*/
 
 li{color:  white;}
 h5
