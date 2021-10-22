@@ -25,6 +25,7 @@ img{
     flex-wrap: wrap;
     justify-content: space-around;
     margin-top: 50px;
+    background: rgba(8, 7, 42, 0.9);
  }
  .flex > div{
    margin-bottom: 100px;
