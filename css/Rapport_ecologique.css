@@ -5,7 +5,12 @@ html {
     background-size: 100%;
 }
 
-body{background-color: rgba(8,7,42,0.9);}
+body
+{
+	background-color: rgba(8,7,42,0.9);
+	margin:0;
+    padding:0;
+}
 
 h1
 {
@@ -61,6 +66,18 @@ h5
 {
 	font-family: arial;
 	color: #E5E5E5;
+}
+
+h2
+{
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	text-align: center;
+}
+
+.marge
+{
+	margin-left: 2.5%;
 }
 
 h2
